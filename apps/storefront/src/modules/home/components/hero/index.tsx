@@ -18,11 +18,11 @@ const Hero = () => {
             Powered by Medusa and Next.js we can edit all the content in the dashboard
           </Heading>
         </span>
-        <a href="https://github.com/medusajs/dtc-starter" target="_blank">
+        {/* <a href="https://github.com/medusajs/dtc-starter" target="_blank">
           <Button variant="secondary">
             View on GitHub <Github />
           </Button>
-        </a>
+        </a> */}
       </div>
     </div>
   );
